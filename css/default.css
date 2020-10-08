@@ -1,0 +1,695 @@
+  /*---------------------------------LAYOUT1--------------------------------------------------------------------------------*/
+  
+	  /******BOXES         */
+  .c1a {
+	  position: absolute;
+	  top: 0px;
+	  left: 330px;
+  }
+  
+  .c1b {
+	  position: absolute;
+	  top: 340px;
+	  left: -50px;
+  }
+  
+  .c1c {
+	  position: absolute;
+	  top: 690px;
+	  left: -50px;
+  }
+  
+  .block1 {
+	  background-color: #000;
+	  display: block;
+	  height: 680px;
+	  width: 33px;
+	  position: absolute;
+	  top: 330px;
+	  left: 297px;
+  }
+  .c2a {
+	  position: absolute;
+	  top: 0px;
+	  left: 345px;
+  }
+  
+  .c2b {
+	  position: absolute;
+	  top: 165px;
+	  left: 345px;
+  }
+  
+  .c2c {
+	  position: absolute;
+	  top: 330px;
+	  left: 345px;
+  }
+  
+  .c2d {
+	  position: absolute;
+	  top: 495px;
+	  left: 345px;
+  }
+  
+  .c2e {
+	  position: absolute;
+	  top: 660px;
+	  left: 345px;
+  }
+  
+  .c2f {
+	  position: absolute;
+	  top: 825px;
+	  left: 345px;
+  }
+  
+  .c3a {
+	  position: absolute;
+	  top: -60px;
+	  left: 525px;
+	  -moz-transform: scaleX(-1);
+	  -o-transform: scaleX(-1);
+	  -webkit-transform: scaleX(-1);
+	  transform: scaleX(-1);
+	  filter: FlipH;
+	  -ms-filter: "FlipH";
+	  
+  }
+  
+  .c3b {
+	  position: absolute;
+	  top: 105px;
+	  left: 525px;
+	  -moz-transform: scaleX(-1);
+	  -o-transform: scaleX(-1);
+	  -webkit-transform: scaleX(-1);
+	  transform: scaleX(-1);
+	  filter: FlipH;
+	  -ms-filter: "FlipH";
+  }
+  
+  .c3c {
+	  position: absolute;
+	  top: 270px;
+	  left: 525px;
+	  -moz-transform: scaleX(-1);
+	  -o-transform: scaleX(-1);
+	  -webkit-transform: scaleX(-1);
+	  transform: scaleX(-1);
+	  filter: FlipH;
+	  -ms-filter: "FlipH";
+  }
+  
+  .c3d {
+	  position: absolute;
+	  top: 435px;
+	  left: 525px;
+	  -moz-transform: scaleX(-1);
+	  -o-transform: scaleX(-1);
+	  -webkit-transform: scaleX(-1);
+	  transform: scaleX(-1);
+	  filter: FlipH;
+	  -ms-filter: "FlipH";
+  }
+  
+  .c3e {
+	  position: absolute;
+	  top: 600px;
+	  left: 525px;
+	  -moz-transform: scaleX(-1);
+	  -o-transform: scaleX(-1);
+	  -webkit-transform: scaleX(-1);
+	  transform: scaleX(-1);
+	  filter: FlipH;
+	  -ms-filter: "FlipH";
+  }
+  
+  .c3f {
+	  position: absolute;
+	  top: 765px;
+	  left: 525px;
+	  -moz-transform: scaleX(-1);
+	  -o-transform: scaleX(-1);
+	  -webkit-transform: scaleX(-1);
+	  transform: scaleX(-1);
+	  filter: FlipH;
+	  -ms-filter: "FlipH";
+  }
+  
+  .block2 {
+	  background-color: #000;
+	  display: block;
+	  height: 950px;
+	  width: 35px;
+	  position: absolute;
+	  top: 0px;
+	  left: 700px;
+	  }
+  
+  .c4a {
+	  position: absolute;
+	  top: -60px;
+	  left: 740px;
+  }
+  
+  .c4b {
+	  position: absolute;
+	  top: 166px;
+	  left: 740px;
+  }
+  
+  .c4c {
+	  position: absolute;
+	  top: 391px;
+	  left: 740px;
+  }
+  
+  .c4d {
+	  position: absolute;
+	  top: 617px;
+	  left: 740px;
+  }
+  
+  .c4e {
+	  position: absolute;
+	  top: 844px;
+	  left: 740px;
+  }
+  
+  
+	  /****ROLLOVERS      */
+  a.slide1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 330px;
+  height: 330px;
+  background: url("../img/rollover1.gif");
+  }
+  
+  a.slide1:hover {
+	  background-position: 330px 0px;
+  }
+	  
+  a.slide2 {
+  position: absolute;
+  top: 330px;
+  left: 345px;
+  width: 160px;
+  height: 160px;
+  background: url("../img/rollover2.gif");
+  }
+  
+  a.slide2:hover {
+	  background-position: 160px 0px;‰‰
+  }
+	  
+  a.slide3 {
+  position: absolute;
+  top: 270px;
+  left: 525px;
+  width: 160px;
+  height: 160px;
+  background: url("../img/rollover3.gif");
+  }
+  
+  a.slide3:hover {
+	  background-position: 160px 0px;
+  }
+	  
+  a.slide4 {
+  position: absolute;
+  top: 617px;
+  left: 740px;
+  width: 220px;
+  height: 220px;
+  background: url("../img/rollover4.gif");
+  }
+  
+  a.slide4:hover {
+	  background-position: 220px 0px;
+  }
+  
+  /*---------------------------------LAYOUT2--------------------------------------------------------------------------------*/
+  
+  .b1 {
+	  position:absolute;
+	  top: -20px;
+	  left: 70px;
+  }
+  
+  .b2 {
+	position:relative;
+	top: 15px;
+  }
+  
+ a.slide5 {
+	position: absolute;
+	top: 3px;
+	left: 0px;
+	width: 109px;
+	height: 109px;
+	background: url("../img/rollover2a.gif");
+  }
+  
+  a.slide5:hover {
+	  background-position: 109px 0px;
+  }
+ 
+.b7 {
+	position:absolute;
+	top: 130px;
+	left: 0px;
+}
+  
+.b3 {
+	position:absolute;
+	top: 270px;
+	left: 260px;
+	-webkit-transform: rotate(-180deg);
+	-moz-transform: rotate(-180deg);
+}
+.b4 {
+	position:absolute;
+	top: 270px;
+	left: 520px;
+	-moz-transform: scaleY(-1);
+	-o-transform: scaleY(-1);
+	-webkit-transform: scaleY(-1);
+	transform: scaleY(-1);
+	filter: FlipV;
+	-ms-filter: "FlipV";
+}
+.b5 {
+	position:absolute;
+	top: 530px;
+	left: 260px;
+	-moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+}
+.b6 {
+	position:absolute;
+	top: 530px;
+	left: 520px;
+	
+}
+
+a.slide6 {
+	position: absolute;
+	top: 505px;
+	left: 235px;
+	width: 50px;
+	height: 50px;
+	background: url("../img/rollover5.png");
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	z-index:1;
+  }
+  
+  a.slide6:hover {
+	  background-position: 50px 0px;
+  }
+
+a.slide7 {
+	position: absolute;
+	top: 505px;
+	left: 750px;
+	width: 50px;
+	height: 50px;
+	background: url("../img/rollover5.png");
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	z-index:1;
+  }
+  
+  a.slide7:hover {
+	  background-position: 50px 0px;
+  }
+  
+  a.slide8 {
+	position: absolute;
+	top: 490px;
+	left: 471px;
+	width: 100px;
+	height: 100px;
+	background: url("../img/rollover6.png");
+	z-index:2;
+  }
+  
+  a.slide8:hover {
+	  background-position: 100px 0px;
+  }
+
+.block3 {
+	position: absolute;
+	z-index: -2;
+	display:block;
+	width:2000px;
+	height:109px;
+	background-color: "pink";
+	top:498px;
+	left:0px;
+	}
+  /*---------------------------------LAYOUT3--------------------------------------------------------------------------------*/
+.d1 {
+	position:absolute;
+	top:115px;
+	left:370px;
+	width:220px;
+	height:220px;
+}
+
+.d2 {
+	position:absolute;
+	top:360px;
+	left:370px;
+	width:220px;
+	height:220px;
+}
+
+.d3 {
+	position:absolute;
+	top:610px;
+	left:370px;
+	width: 220px;
+	height:auto;
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+}
+
+.d4 {
+	position: absolute;
+	top:135px;
+	left:393px;
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleH(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+	color:#FFFFFF;
+	width: 720px;
+	height: 130px;
+}
+
+.d5 {
+	position: absolute;
+	top:640px;
+	left:-25px;
+	color:#FFFFFF;
+}
+
+.d6 {
+	position:absolute;
+	left: 615px;
+	top: 270px;
+}
+
+.d7 {
+	position:fixed;
+	-webkit-transform: rotate(-27deg);
+	-moz-transform: rotate(-27deg);
+	top:309px;
+	left:160px;
+}
+
+.d8 {
+	position:fixed;
+	-webkit-transform: rotate(-27deg);
+	-moz-transform: rotate(-27deg);
+	top:373px;
+	left:160px;
+}
+
+.d9 {
+	position:fixed;
+	-webkit-transform: rotate(-27deg);
+	-moz-transform: rotate(-27deg);
+	top:438px;
+	left:160px;
+}
+
+.dline1 {
+	background-color: rgb(116,196,171);
+	width:8px;
+	height:2000px;
+	position:fixed;
+	top:0px;
+	left:457px;
+}
+
+.dline2 {
+	background-color: rgb(92,40,97);
+	width:8px;
+	height:2000px;
+	position:fixed;
+	top:-9px;
+	left:483px;
+}
+
+.dline4 {
+	background-color: rgb(116,196,171);
+	width:600px;
+	height:15px;
+	position:fixed;
+	top:680px;
+	left:-130px;
+}
+
+.dline3 {
+	background-color: rgb(236,145,57);
+	width:8px;
+	height:2000px;
+	position:fixed;
+	top:-9px;
+	left:468px;
+}
+
+
+
+.dline5 {
+	background-color: rgb(236,145,57);
+	width:3000px;
+	height:15px;
+	position:fixed;
+	top:210px;
+	left:468px;
+}
+
+.dline6 {
+	background-color: rgb(255,255,255);
+	width: 30px;
+	height:15px;
+	position:absolute;
+	top:6000px;
+	left:0px;
+}
+
+ a.slide10 {
+	position: absolute;
+	top: 135px;
+	left: 1130px;
+	width:109px;
+	height:109px;
+	background: url("../img/rollover7.gif");
+	z-index:2;
+  }
+  
+  a.slide10:hover {
+	  background-position: 109px 0px;
+  }
+  
+  /* -------------------------LAYOUT 4----------------------*/
+
+.e2 {
+	position:fixed;
+	top: 312px;
+	left: -100px;
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleH(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+}
+.e1 {
+	position:fixed;
+	top: 312px;
+	left:670px;
+}
+  .e7 {
+	position: fixed;
+	top:680px;
+	left:400px;
+	color:#FFFFFF;
+	width: 657px;
+}
+
+.e8 {
+	position: fixed;
+	top:240px;
+	left:-10px;
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleH(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+	color:#FFFFFF;
+	-webkit-transform: rotate(-180deg);
+	-moz-transform: rotate(-180deg);
+	}
+	
+ .e9 {
+	position: fixed;
+	top:312px;
+	left:-106px;
+	color:#FFFFFF;
+	width: 1519px;
+	height: 400px;
+	
+}
+
+ .e10 {
+	position: fixed;
+	top:313px;
+	left:289px;
+	color:#FFFFFF;
+	
+}
+ .e11 {
+	position: fixed;
+	top:313px;
+	left:475px;
+	color:#FFFFFF;
+	-moz-transform: scaleY(-1);
+	-o-transform: scaleY(-1);
+	-webkit-transform: scaleY(-1);
+	transform: scaleV(-1);
+	filter: FlipV;
+	-ms-filter: "FlipV";
+	
+}
+
+ .e12 {
+	position: fixed;
+	top:498px;
+	left:290px;
+	color:#FFFFFF;
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleH(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+	
+}
+.e14 {
+	position: fixed;	
+	top:497px;
+	left:475px;
+	color:#FFFFFF;
+	z-index:4;
+	
+}
+
+ .e13 {
+	position: fixed;
+	top:313px;
+	left:290px;
+	color:#FFFFFF;
+	-webkit-transform: rotate(-180deg);
+	-moz-transform: rotate(-180deg);
+	
+}
+ 
+.eline1 {
+	background-color: #FABB5D;
+	width: 20px;
+	height:1400px;
+	position:absolute;
+	top:840px;
+	left:348px;
+	-webkit-transform: rotate(-25deg);
+	-moz-transform: rotate(-25deg);
+	z-index:-2;
+}
+
+ .e3 {
+	position: absolute;
+	top:650px;
+	left:-40px;
+	color:#FFFFFF;
+	-moz-transform: rotate(-115deg);
+	-webkit-transform: rotate(-115deg);
+	z-index:-2;
+}
+.e4 {
+	background-color: #FFF;
+	width: 30px;
+	height:15px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+.eline2 {
+	background-color: #FA574A;
+	width: 27px;
+	height:3000px;
+	position:absolute;
+	top:100px;
+	left:348px;
+	-webkit-transform: rotate(-115deg);
+	-moz-transform: rotate(-115deg);
+	z-index:-4;
+}
+ .e5 {
+	position: absolute;
+	top:1367px;
+	left:386px;
+	color:#FFFFFF;
+	-moz-transform: rotate(-205deg);
+	-webkit-transform: rotate(-205deg);
+	z-index:-3;
+}
+
+ a.slide11 {
+	position: absolute;
+	top: 1050px;
+	left: 200px;
+	width:150px;
+	height:150px;
+	background: url("../img/rollover8.gif");
+	-moz-transform: rotate(-25deg);
+	-webkit-transform: rotate(-25deg);
+	z-index:4;
+  }
+  
+  a.slide11:hover {
+	  background-position: 150px 0px;
+  }
+
+ a.slide12 {
+	position: absolute;
+	top: 900px;
+	left: 150px;
+	width:150px;
+	height:150px;
+	background: url("../img/rollover8.gif");
+	-moz-transform: rotate(-25deg);
+	-webkit-transform: rotate(-25deg);
+	z-index:4;
+  }
+  
+  a.slide12:hover {
+	  background-position: 150px 0px;
+  }
